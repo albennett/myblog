@@ -1,0 +1,109 @@
+body {
+  font-family: Arial;
+  text-align: justify;
+  background-image: url(http://40.media.tumblr.com/222047a407e156f800baff00507a5f7d/tumblr_nlmg6evppP1qcdtsho1_400.jpg); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 15px;
+}
+
+#github-link{
+  text-align: center;
+  clear: both;
+
+}
+
+#profile{
+  margin: 0 0 20px 0;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.float-right {
+  float: right;
+}
+
+.float-left {
+  float: left;
+}
+
+img{
+  max-width: 400px;
+}
+
+div .style-article {
+  background-color: black;
+  border-style: solid;
+}
+
+.clear {
+  clear: both;
+}
+
+article {
+  border: solid darkcyan ;
+  padding: 30px 40px;
+  margin: 75px 150px;
+}
+
+.margin-bottom{
+  margin: 0 0 80px 0;
+}
+
+.blog-title {
+  font-family: "Arial";
+  color: cadetblue;
+  font-size: 40px;
+  text-align: center;
+}
+
+/*#my-header > .navigation > div.bordered {
+  float: left;
+  padding: 5px 10px;
+  text-align: center;
+  background: darkcyan;
+  border-radius: 5px;
+  color: white;
+  width: 150px;
+  border: solid;
+
+}*/
+
+.navigation > ul > li {
+  display:inline;
+  list-style-type: none;
+  margin: 0 8px;
+  border: 1px solid gray;
+  padding: 5px;
+  background-color: darkcyan;
+  font-family: Arial;
+  font-size: 18px;
+  text-decoration: none;
+  color: white;
+  border-radius: 4px;
+  width: 200px;
+  text-align: left;
+  margin: 40px 70px;
+}
+
+
+.yellow {
+  background-color: yellow;
+}
+
+.large {
+  font-size: 40px;
+}
+
+
+footer {
+  color: darkslategray;
+}
